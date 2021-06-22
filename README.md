@@ -19,6 +19,4 @@ copier le output et placer le dans un fichier.txt que vous passerait en argument
 </br></br>
 <h4>Exmple de sortie de programe</h4>
 </br>
-
-
-
+![Screenshot](screenshots/screen.png)
